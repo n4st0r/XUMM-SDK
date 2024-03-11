@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "@types/websocket": "^1.0.5",
-    "assert": "^2.0.0",
+    "assert": "^2.1.0",
     "bignumber.js": "^9.0.0",
     "buffer": "^6.0.3",
     "debug": "^4.1.1",
